@@ -1,4 +1,4 @@
-## 1. Self-Introduction (60–90 sec)
+## Self-Introduction (60–90 sec)
 
 > "Hi, I'm Madhav Tiwari, a final-year B.Tech CSE student at Arya College of Engineering, Jaipur, graduating in 2027 with a CGPA of 8. My core strength is full-stack development on the MERN stack and React Native — I've built and shipped 10+ projects, including DevStreaks, a React Native app live at devstreaks.site with 100+ downloads that helps developers track their coding consistency across GitHub and LeetCode. Alongside that, I've solved 950+ DSA problems on LeetCode, sitting in the top 85K globally with a 159-day solving streak.
 
