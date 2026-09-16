@@ -1,12 +1,5 @@
 ## Most Likely Project Questions + Technical Follow-Ups
 
-### General (any project)
-- Walk me through your architecture — draw it if you can.
-- What would you do differently if you rebuilt this today?
-- What's the biggest bug you hit, and how did you debug it?
-- If this had 10,000 concurrent users tomorrow, what breaks first?
-- Why did you choose [X] over [alternative]?
-
 ### Web Chat App
 - Explain how WebRTC establishes a connection (SDP offer/answer, ICE candidates) — **HIGH**, they will ask this if it's on your resume.
 - What's the difference between STUN and TURN? Did you use either?
@@ -29,18 +22,18 @@
 - What does your update cycle look like — how do you decide what to ship monthly?
 - How do you know 100+ people downloaded it — what are you tracking, and is that a vanity metric or does it tell you something about usage?
 
-### MANIT Internship / ADA-GMWL Research (expect deep, skeptical questions here — see Section 7)
+<!-- ### MANIT Internship / ADA-GMWL Research (expect deep, skeptical questions here — see Section 7)
 - Explain a transformer architecture at a high level — what is self-attention actually doing?
 - Why do you need domain adaptation here specifically — what changes between the source (Mendeley) and target (BRISC 2025) datasets?
 - What does "custom loss function with five mathematical extensions" mean — pick ONE and explain the math and intuition in plain terms.
 - 98.87% accuracy — accuracy on what split, what's the class balance, and why is accuracy alone not a great metric for imbalanced medical data (precision/recall/F1/AUC matter more)?
 - What is Swin-Tiny, and why a Swin Transformer backbone instead of a CNN like ResNet?
 - What does "manuscript in preparation" mean — is it under review anywhere, and is your name first author?
-- Would you deploy this model in a real hospital as-is? Why or why not? (Good answer: no — needs external validation, regulatory clearance, clinician-in-the-loop, robustness testing across scanners.)
+- Would you deploy this model in a real hospital as-is? Why or why not? (Good answer: no — needs external validation, regulatory clearance, clinician-in-the-loop, robustness testing across scanners.) -->
 
 ---
 
-## 4. Questions for Every Skill/Technology on Your Resume
+## Questions for Every Skill/Technology on Your Resume
 
 **JavaScript / TypeScript**
 - var vs let vs const, and closures — give an example.
@@ -107,7 +100,7 @@
 
 ---
 
-## 5. CS Fundamentals
+## CS Fundamentals
 
 ### Java (you use this for DSA per your revision series — MEDIUM priority since it's not on your resume skills list, but be ready since interviewers may ask "what language do you code DSA in?")
 - Why is Java "write once, run anywhere" — JVM/bytecode.
@@ -131,7 +124,7 @@
 - Indexes — how do they work, and what's the tradeoff (faster reads, slower writes)?
 - Primary key vs foreign key vs candidate key.
 
-### OS (MEDIUM)
+<!-- ### OS (MEDIUM)
 - Process vs thread.
 - Deadlock — four necessary conditions.
 - What is a race condition, and how do you prevent one?
@@ -141,4 +134,4 @@
 - OSI model — 7 layers, one line each.
 - TCP vs UDP — when would you use each?
 - What happens when you type a URL into a browser and hit enter? (Classic — DNS → TCP handshake → TLS → HTTP request → response → render.)
-- HTTP vs HTTPS — what does TLS actually add?
+- HTTP vs HTTPS — what does TLS actually add? -->
