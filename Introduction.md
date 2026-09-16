@@ -4,4 +4,4 @@
 
 > More recently, I did a Machine & Deep Learning internship at MANIT Bhopal, where I built a transformer-based model to classify brain tumor types from MRI scans, designed a custom loss function to handle class imbalance, and hit 98.87% test accuracy across 20 optimizer-classifier configurations. I'm now extending that work into an original research paper on domain adaptation for medical imaging.
 
-> I've also won Spark Hack 2026, and my team placed 4th out of 1500+ teams at Hackmol 7.0 at NIT Jalandhar. Right now, I'm looking for a software engineering internship where I can apply my full-stack and problem-solving skills to real production systems and keep growing as an engineer."
+> I've also won Spark Hack 2026, and my team placed 4th out of 1500+ teams at Hackmol 7.0 at NIT Jalandhar. Right now, I'm looking for a software engineering internship where I can apply my full-stack and problem-solving skills to real production systems and keep growing as an engineer"
